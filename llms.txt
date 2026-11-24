@@ -1,0 +1,12 @@
+# ファシリテーター Academy
+
+> ファシリテーター Academy
+
+## Main Pages
+
+- [facilitator academy](https://musclelove-777.github.io/facilitator-academy/): main page of ファシリテーター Academy.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/facilitator-academy
